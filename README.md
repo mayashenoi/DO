@@ -2,5 +2,7 @@
 
 **Capcitated Vehicle Routing problem**\
 Minimize the number of trips by a vehicle based on the capacity of the vehicle delivering quantities to customers
-https://github.com/mayashenoi/DO/blob/main/cvrp-cplex(2).ipynb
+https://github.com/mayashenoi/DO/blob/main/cvrp-cplex(2).ipynb\
+\
+Inspired by **Victor Terpstra** https://github.ibm.com/vterpstra
 
