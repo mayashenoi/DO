@@ -1,4 +1,9 @@
 **IBM Decision Optimization** represents a family of optimization software that delivers prescriptive analytics capabilities to help you make better decisions and deliver improved business outcomes.\
+**Problems in BFSI**\
+How to make targeted offers to customers of your Bank by [predicting which offers are most appropriate for customers and the probability of offers being accepted.](https://github.com/mayashenoi/DO/blob/main/How%20to%20make%20targeted%20offers%20to%20customers.ipynb)
+\
+\
+**Vehicle Routing Problem**\
 ![VRP versions](https://github.com/mayashenoi/DO/blob/main/Map_of_vrp_subproblems.jpg) \
 
 [**Capcitated Vehicle Routing problem CVRP**](https://github.com/mayashenoi/DO/blob/main/cvrp-cplex(2).ipynb)\
