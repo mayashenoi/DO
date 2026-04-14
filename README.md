@@ -3,7 +3,7 @@
 How to make targeted offers to customers of your Bank by [predicting which offers are most appropriate for customers and the probability of offers being accepted.](https://github.com/mayashenoi/DO/blob/main/How%20to%20make%20targeted%20offers%20to%20customers.ipynb)
 \
 **Inventory Optimisation Problem**\
-Optimise the inventory levels across plants, distribution centers and retailers using [cplex.](https://github.com/mayashenoi/DO/blob/main/DIO_InventoryOptimization_Cplex.ipynb) \
+Optimise the inventory levels across plants, distribution centers and retailers using [cplex.](https://github.com/mayashenoi/DO/blob/main/DIO_InventoryOptimization_CplexV2.ipynb) \
 \
 \
 **Vehicle Routing Problem**\
